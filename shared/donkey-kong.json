@@ -3,7 +3,6 @@
   "version": 1,
   "author": "jnthas",
   "bgColor": 0,
-  "delay": 1000,
   "setup": [
     {
       "type": "image",

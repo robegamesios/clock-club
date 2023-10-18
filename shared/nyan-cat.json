@@ -3,7 +3,6 @@
   "version": 1,
   "author": "@jnthas",
   "bgColor": 396, 
-  "delay": 100,
   "setup": [
     {
       "type": "datetime",
@@ -89,24 +88,27 @@
   "loop": [
     {
       "type": "sprite",
-      "movement": 0,
       "sprite": 0,
       "x": 0,
-      "y": 5
+      "y": 5,
+      "loopDelay": 100,
+      "frameDelay": 100
     },
     {
       "type": "sprite",
-      "movement": 0,
       "sprite": 1,
       "x": 58,
-      "y": 3
+      "y": 3,
+      "loopDelay": 100,
+      "frameDelay": 100
     },
     {
       "type": "sprite",
-      "movement": 0,
       "sprite": 1,
       "x": 31,
-      "y": 31
+      "y": 31,
+      "loopDelay": 100,
+      "frameDelay": 100
     }
   ]
 }

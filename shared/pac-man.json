@@ -3,7 +3,6 @@
   "version": 1,
   "author": "@jnthas",
   "bgColor": 0, 
-  "delay": 200,
   "setup": [
     {
       "type": "datetime",
@@ -57,35 +56,45 @@
       "movement": 0,
       "sprite": 0,
       "x": 46,
-      "y": 50
+      "y": 50,
+      "loopDelay": 200,
+      "frameDelay": 200
     },
     {
       "type": "sprite",
       "movement": 0,
       "sprite": 1,
       "x": 36,
-      "y": 50
+      "y": 50,
+      "loopDelay": 200,
+      "frameDelay": 200
     },
     {
       "type": "sprite",
       "movement": 0,
       "sprite": 2,
       "x": 28,
-      "y": 50
+      "y": 50,
+      "loopDelay": 200,
+      "frameDelay": 200
     },
     {
       "type": "sprite",
       "movement": 0,
       "sprite": 3,
       "x": 20,
-      "y": 50
+      "y": 50,
+      "loopDelay": 200,
+      "frameDelay": 200
     },
     {
       "type": "sprite",
       "movement": 0,
       "sprite": 4,
       "x": 12,
-      "y": 50
+      "y": 50,
+      "loopDelay": 200,
+      "frameDelay": 200
     }
   ]
 }
