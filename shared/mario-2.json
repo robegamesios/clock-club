@@ -6,24 +6,6 @@
     "delay": 200,
     "setup": [
         {
-            "type": "datetime",
-            "content": "h:i:sa",
-            "font": "",
-            "fgColor": 65535,
-            "bgColor": 6749,
-            "x": 2,
-            "y": 1
-        },
-        {
-            "type": "datetime",
-            "content": "M d",
-            "font": "",
-            "fgColor": 65535,
-            "bgColor": 6749,
-            "x": 14,
-            "y": 9
-        },
-        {
             "type": "image",
             "x": 0,
             "y": 0,
