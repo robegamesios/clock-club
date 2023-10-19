@@ -253,7 +253,7 @@
             "x": 27,
             "y": 18,
             "sprite": 1,
-            "loopDelay": 1575,
+            "loopDelay": 75,
             "frameDelay": 75,
             "id": "c5c27h"
         },
