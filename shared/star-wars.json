@@ -2,7 +2,8 @@
   "name": "Star Wars",
   "version": 1,
   "author": "@jnthas",
-  "bgColor": 0, 
+  "bgColor": 0,
+  "delay": 500, 
   "setup": [
       {
         "type": "datetime",
@@ -37,9 +38,7 @@
       "type": "sprite",
       "sprite": 0,
       "x": 2,
-      "y": 6,
-      "loopDelay": 500,
-      "frameDelay": 500
+      "y": 6
     }
   ]
 }

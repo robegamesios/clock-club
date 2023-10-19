@@ -3,6 +3,7 @@
   "version": 1,
   "author": "Alban",
   "bgColor": 0,
+  "delay": 1000,
   "setup": [
     {
       "type": "image",
@@ -48,8 +49,6 @@
       "x": 8,
       "y": 0,
       "sprite": 0,
-      "loopDelay": 1000,
-      "frameDelay": 1000,
       "id": "1z4h9s"
     }
   ]

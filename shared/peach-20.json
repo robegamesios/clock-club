@@ -3,6 +3,7 @@
     "version": 1,
     "author": "<AUTHOR>",
     "bgColor": 0,
+    "delay": 100,
     "setup": [
     ],
     "sprites": [
@@ -45,8 +46,6 @@
             "x": 0,
             "y": 0,
             "sprite": 0,
-            "loopDelay": 100,
-            "frameDelay": 100,
             "id": "c5c27h"
         }
     ]

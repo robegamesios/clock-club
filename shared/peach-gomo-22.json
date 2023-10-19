@@ -3,6 +3,7 @@
     "version": 1,
     "author": "<AUTHOR>",
     "bgColor": 45887,
+    "delay": 200,
     "setup": [
         {
             "type": "datetime",
@@ -81,8 +82,6 @@
             "x": 7,
             "y": 12,
             "sprite": 0,
-            "loopDelay": 200,
-            "frameDelay": 200,
             "id": "c5c27h"
         }
     ]
