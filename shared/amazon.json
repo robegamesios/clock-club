@@ -1,8 +1,9 @@
 {
-  "name": "Amazon Music",
+  "name": "snoopy3",
   "version": 1,
-  "author": "robegamesios",
+  "author": "Alban",
   "bgColor": 0,
+  "delay": 1000,
   "setup": [
     {
       "type": "image",
